@@ -30,7 +30,7 @@ export default function TestimonialSection() {
 
           <div className="lg:w-1/2 px-4 w-full">
             <TestimonalCard
-              CoDescription="We help you make sure everybody in your company knows what their role is, has the right processes and the best tools to deliver great outcomes consistently."
+              CoDescription="We help you make sure everybody in your company knows what their role is, has the right processes and the best tools to deliver great outcomes consistently and award at a time."
               CoLogo="src\data\image\Image\ASAMBY_Logo_yellow.png"
               CoName="Asamby"
               CoOwnerImg="src\data\image\image\images-image-1.png"
