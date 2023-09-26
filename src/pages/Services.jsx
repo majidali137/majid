@@ -9,7 +9,7 @@ export default function Services() {
   const [ref, inView] = useInView();
 
   const boxVariant = {
-    visible: { opacity: 1, scale: 1, transition: { duration: 0.6 } },
+    visible: { opacity: 1, scale: 1, transition: { duration: 0.3 } },
     hidden: { opacity: 0, scale: 0 },
   };
   useEffect(() => {

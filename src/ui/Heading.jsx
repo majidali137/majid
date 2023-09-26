@@ -8,7 +8,7 @@ export default function Heading({ subHeading, mainHeading, description, classNam
         <h2 className="text-3xl font-bold tracking-tight sm:text-5xl">
           {mainHeading}
         </h2>
-        <p className=" mx-auto mt-3 max-w-2xl text-sm text-center text-[#959CB1] sm:mt-4 sm:text-lg">
+        <p className=" mx-auto mt-3 max-w-2xl text-sm text-center text-[#959CB1] sm:mt-4 sm:text-lg px-3 ">
           {description}
         </p>
       </div>

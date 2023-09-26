@@ -38,7 +38,7 @@ export default function NavBar() {
                  
                   <img
                     className="block h-[55px] w-auto lg:hidden"
-                    src="public\data\image\Image\logo-3.png"
+                    src="data\image\Image\logo-3.png"
                     alt="Company logo"
                   />
                   <img

@@ -1,7 +1,7 @@
 import Card from "../../ui/Card";
 
 import { SiReact } from "react-icons/si";
-import { TbBrandJavascript, TbBrandHtml5, TbSeo } from "react-icons/tb";
+import {TbBrandHtml5, TbSeo } from "react-icons/tb";
 import { FaWordpressSimple } from "react-icons/fa";
 import Heading from "../../ui/Heading";
 

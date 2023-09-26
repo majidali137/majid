@@ -112,7 +112,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="Start Project with Power Funnel"
                       description="This project builds with react and uses modern and innovative technology. Performance is excellent."
-                      image="public\data\image\projects\react-projects\project-1.png"
+                      image="data/image/projects/react-projects/project-1.png"
                       path="react-project-1"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
@@ -120,7 +120,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="The WoldWise"
                       description="This project is built with react. the latest and advance technology was used in this project. and also provide the facility to the user for location map. ."
-                      image="public\data\image\projects\react-projects\project-2.png"
+                      image="data/image/projects/react-projects/project-2.png"
                       path="react-project-2"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
