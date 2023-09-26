@@ -12,7 +12,7 @@ export default function WordPressProjects() {
         student realize his or her full expressive and artistic
         potential through music."
         pgName="project-2"
-        image="src\data\image\projects\Wordpress-projects\project-2.png"
+        image="public\data\image\projects\Wordpress-projects\project-2.png"
         subHeading="ABOUT COPPELL CONSERVATORY"
         subHeadingDes1="At Coppell Conservatory, we strive to provide the best
         possible music education for our students. We offer an

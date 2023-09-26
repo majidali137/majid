@@ -20,9 +20,9 @@ export default function TestimonialSection() {
           <div className="lg:w-1/2 px-4 w-full">
             <TestimonalCard
               CoDescription="Power Funnels is a battle tested and proven digital marketing agency that powers your success no matter how competitive your industry or vertical is — one strategy, and award at a time."
-              CoLogo="src\data\image\Image\pf-testimonial-logo.svg"
+              CoLogo="data\image\Image\pf-testimonial-logo.svg"
               CoName="Founder & CMO at Power Funnels"
-              CoOwnerImg="src\data\image\image\images-image-2.png"
+              CoOwnerImg="public\data\image\Image\images-image-2.png"
               CoOwnerName="Lee Futcher"
               CologClassName="max-w-[200px]"
             />
@@ -31,9 +31,9 @@ export default function TestimonialSection() {
           <div className="lg:w-1/2 px-4 w-full">
             <TestimonalCard
               CoDescription="We help you make sure everybody in your company knows what their role is, has the right processes and the best tools to deliver great outcomes consistently and award at a time."
-              CoLogo="src\data\image\Image\ASAMBY_Logo_yellow.png"
+              CoLogo="data\image\Image\ASAMBY_Logo_yellow.png"
               CoName="Asamby"
-              CoOwnerImg="src\data\image\image\images-image-1.png"
+              CoOwnerImg="public\data\image\Image\images-image-1.png"
               CoOwnerName="Benjamin Lander"
               CologClassName="max-w-[150px]"
             />
@@ -41,9 +41,9 @@ export default function TestimonialSection() {
           <div className="lg:w-1/2 px-4 w-full">
             <TestimonalCard
               CoDescription="At Coppell Conservatory, we strive to provide the best possible music education for our students. We offer an excellent, experienced faculty committed to helping the student realize his  music."
-              CoLogo="src\data\image\Image\coppellconservatory-logo-testimonial.png"
+              CoLogo="data\image\Image\coppellconservatory-logo-testimonial.png"
               CoName="Coppell Conservation"
-              CoOwnerImg="src\data\image\Image\images-image-3.png"
+              CoOwnerImg="public\data\image\Image\images-image-3.png"
               CoOwnerName="MRS. LIANA BRAMLETT"
               CologClassName="max-w-[150px]"
             />
@@ -51,9 +51,9 @@ export default function TestimonialSection() {
           <div className="lg:w-1/2 px-4 w-full">
             <TestimonalCard
               CoDescription="Our goal is simple: to revolutionize the way businesses and organizations manage their Standard Operating Procedures (SOPs) by offering a simple, accessible, and affordable SOP writing solution."
-              CoLogo="src\data\image\Image\SOP-Heroes-testimoial-logo.svg"
+              CoLogo="data\image\Image\SOP-Heroes-testimoial-logo.svg"
               CoName="SOP Heroes"
-              CoOwnerImg="src\data\image\Image\images-image-4.png"
+              CoOwnerImg="public\data\image\Image\images-image-4.png"
               CoOwnerName="Adam Zielinski"
               CologClassName="max-w-[250px]"
             />

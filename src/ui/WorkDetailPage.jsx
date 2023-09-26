@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { AiOutlineFilePdf } from "react-icons/ai";
 
@@ -23,6 +23,10 @@ export default function WorkDetailPage({
   website,
   location,
 }) {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <>
       <section className=" pt-24 overflow-hidden mb-20 relative">

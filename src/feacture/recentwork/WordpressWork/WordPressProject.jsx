@@ -9,7 +9,7 @@ export default function WordPressProject() {
         mainHeadingDes="ASAMBY CONSULTING Make your organization run like a well-oiled
         machine and reach your goals."
         pgName=" wordpress Project 1"
-        image="src\data\image\projects\Wordpress-projects\project-1.png"
+        image="data\image\projects\Wordpress-projects\project-1.png"
         subHeading=" From entrepreneur to entrepreneur."
         subHeadingDes1="I grew my first company to 100 employees and found that an
         incredibly difficult thing to do. Getting operations,

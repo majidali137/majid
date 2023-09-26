@@ -112,7 +112,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="Start Project with Power Funnel"
                       description="This project builds with react and uses modern and innovative technology. Performance is excellent."
-                      image="src\data\image\projects\react-projects\project-1.png"
+                      image="public\data\image\projects\react-projects\project-1.png"
                       path="react-project-1"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
@@ -120,7 +120,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="The WoldWise"
                       description="This project is built with react. the latest and advance technology was used in this project. and also provide the facility to the user for location map. ."
-                      image="src\data\image\projects\react-projects\project-2.png"
+                      image="public\data\image\projects\react-projects\project-2.png"
                       path="react-project-2"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
@@ -136,7 +136,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="Asamby"
                       description="Setting a business up for success is difficult to do alone. I learned that the hard way."
-                      image="src\data\image\projects\Wordpress-projects\project-1.png"
+                      image="data\image\projects\Wordpress-projects\project-1.png"
                       path="wordpress-project-1"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
@@ -144,7 +144,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="Coppel Conservation"
                       description="At Coppell Conservatory, we strive to provide the best possible music education for our students."
-                      image="src\data\image\projects\Wordpress-projects\project-2.png"
+                      image="data\image\projects\Wordpress-projects\project-2.png"
                       path="wordpress-project-2"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
@@ -160,7 +160,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="Startup landing page"
                       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae dolor ultrices libero."
-                      image="src/data/image/image/images-portfolio-01.jpg"
+                      image="data\image\Image\images-portfolio-01.jpg"
                       path="recent-work-details"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />
@@ -168,7 +168,7 @@ export default function RecentWorkSection() {
                     <TabCard
                       heading="Job portal landing page"
                       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae dolor ultrices libero."
-                      image="src/data/image/image/images-portfolio-03.jpg"
+                      image="data\image\Image\images-portfolio-03.jpg"
                       path="recent-work-details"
                       className="animate-fade-down animate-once animate-ease-linear"
                     />

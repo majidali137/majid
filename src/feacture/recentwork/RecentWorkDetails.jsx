@@ -46,7 +46,7 @@ export default function RecentWorkDetails() {
               <div>
                 <div className="rounded-sm mb-8">
                   <img
-                    src="src\data\image\image\portfolio-details.jpg"
+                    src="data\image\Image\portfolio-details.jpg"
                     alt="recent-work-details"
                     className="object-center object-cover w-full"
                   />

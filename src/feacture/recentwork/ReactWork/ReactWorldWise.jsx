@@ -12,7 +12,7 @@ export default function ReactWoldWise() {
         current location option to select the current location and
         also mark the city and country for the trip"
         pgName="Project-2 Details"
-        image="src\data\image\projects\react-projects\project-2.png"
+        image="public\data\image\projects\react-projects\project-2.png"
         subHeading="About this Project"
         subHeadingDes1=" Provides location map facility to the user. User can easily
         use current location option to select current location and

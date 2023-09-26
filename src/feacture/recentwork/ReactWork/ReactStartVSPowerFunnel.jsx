@@ -8,7 +8,7 @@ export default function ReactStartVSPowerFunnel() {
         mainHeading="Start Prjoect With Power Funnel"
         mainHeadingDes="This project builds with react and uses modern and innovative technology. Performance is excellent."
         pgName="Project-1 Details"
-        image="src\data\image\projects\react-projects\project-1.png"
+        image="data\image\projects\react-projects\project-1.png"
         subHeading=" About this Project"
         subHeadingDes1=" Power Funnels is a battle tested and proven digital marketing agency that powers your success no matter how competitive you industry or vertical is — one strategy, and award at a time."
         subHeadingDes2=" With our proven track record of rapidly increasing leads and online sales, your competitors will wish you never found us at all. We’re the silver bullet you’ve been searching for."

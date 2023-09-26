@@ -7,7 +7,7 @@ export default function BlogePage() {
       <div
         className=" sm:py-44 py-24 "
         style={{
-          backgroundImage: `url("src/data/image/Image/id-yourself-blog-page-header.jpg")`,
+          backgroundImage: `url("data/image/Image/id-yourself-blog-page-header.jpg")`,
         }}
       >
         <h1 className="sm:text-5xl text-2xl font-bold text-center text-white ">

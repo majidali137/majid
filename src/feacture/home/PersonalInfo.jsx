@@ -42,13 +42,10 @@ export default function PersonalInfo() {
           <div className="lg:w-3/6 px-4 self-center w-full">
             <div className="xl:right-40 xl:bottom-0 xl:absolute xl:mt-0 mt-12 z-10 relative ">
               <img
-                src="src\data\image\image\hero-image.png"
+                src="data\image\Image\hero-image.png"
                 alt="heroImage"
                 className="max-w-full mx-auto " 
               />
-              {/* <span className="bottom-[0.5rem] absolute">
-                <img src="src\data\image\hero-image.svg" alt="hero" />
-              </span> */}
             </div>
           </div>
         </div>
