@@ -36,13 +36,13 @@ export default function NavBar() {
                   <NavLink to= "/">
 
                  
-                  <img
+                  {/* <img
                     className="block h-[55px] w-auto lg:hidden"
                     src="data\image\Image\logo-3.png"
                     alt="Company logo"
-                  />
+                  /> */}
                   <img
-                    className="hidden h-[55px] w-auto lg:block"
+                    className=" h-[55px] w-auto block"
                     src="data\image\Image\logo-3.png"
                     alt=" Company logo"
                   />
