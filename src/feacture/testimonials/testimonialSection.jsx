@@ -7,7 +7,7 @@ export default function TestimonialSection() {
       <div className="absolute inset-0">
         <div className="h-1/3 bg-white sm:h-2/3" />
       </div>
-      <div className="relative mx-auto max-w-7xl">
+      <div className="relative mx-auto max-w-7xl sm:px-8">
         {/* heading */}
         <Heading
           subHeading="Awesome Testimonials"

@@ -99,7 +99,7 @@ export default function RecentWorkSection() {
             </li>
           </ul>
           <div className="relative flex flex-col min-w-0 sm:max-w-[70%] sm:self-center  ">
-            <div className="px-4 py-5 ">
+            <div className="px-4 py-5 lg:px-8 ">
               
               <div className="tab-content tab-space ">
                 <div
