@@ -55,7 +55,7 @@ export default function RecentWorkSection() {
                 href="#link2"
                 role="tablist"
               >
-                React Projects
+                React
               </a>
             </li>
             <li className="-mb-px mr-2 last:mr-0   text-center">
@@ -74,7 +74,7 @@ export default function RecentWorkSection() {
                 href="#link3"
                 role="tablist"
               >
-                WordPress Projects
+                WordPress 
               </a>
             </li>
 
@@ -94,7 +94,7 @@ export default function RecentWorkSection() {
                 href="#link3"
                 role="tablist"
               >
-                HTML / Css Projects
+                HTML / Css 
               </a>
             </li>
           </ul>

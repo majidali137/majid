@@ -42,8 +42,8 @@ export default function NavBar() {
                     alt="Company logo"
                   /> */}
                   <img
-                    className=" h-[55px] w-auto block"
-                    src="data\image\Image\logo-3.png"
+                    className=" h-[40px] sm:h-[55px] w-auto block"
+                    src="data\image\Image\logo-19.png"
                     alt=" Company logo"
                   />
                    </NavLink>
